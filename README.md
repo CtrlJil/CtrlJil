@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jil
-- 👀 I’m interested in Backend Development & Machine Learning
+- 👀 I’m interested in Data Analysis & Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me jilokonma@gmail.com
