@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jil
 - 👀 I’m interested in Data Analysis & Machine Learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, SQL and Tableau
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me jilokonma@gmail.com
 
