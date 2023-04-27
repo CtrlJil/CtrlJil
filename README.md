@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Jil
 - 👀 I’m interested in Python programming, Data Analysis & Machine Learning
-- 🌱 I’m currently learning Python, SQL, Tableau and Power BI
-- 💞️ I’m looking to collaborate on projects in Exploratory Data Analysis, Data Mining & Data Cleaning
+- 🌱 Actively learning Data Analysis using Python, SQL, Tableau and Power BI
+- 💞️ I’m looking to collaborate on projects in  Data Analysis including data mining & data Cleaning
+- ⚽ My 2023 goal is to get a Data Analytics job and learn on the job
 - 📫 How to reach me jilokonma@gmail.com
 
 <!---
