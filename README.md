@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python programming, Data Analysis & Machine Learning
 - 🌱 Actively learning Data Analysis using Python, SQL, Tableau and Power BI
 - 💞️ I’m looking to collaborate on projects in  Data Analysis including data mining & data Cleaning
-- ⚽ My 2023 goal is to get a Data Analytics job and learn on the job
+- ⚽ My 2023 goal is to secure an opportunity to implement and work with data in real-time.
 - 📫 How to reach me jilokonma@gmail.com
 
 <!---
