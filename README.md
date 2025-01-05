@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jil
 - 👀 I’m interested in Data Analysis & Machine Learning
-- 🌱 Actively learning Data Analysis using Excel, Python, SQL, Tableau and Power BI
+- 🌱 Actively learning Data Analysis using Python, SQL
 - 💞️ I’m open to collaborations on data analytics projects and willing to work at any point in the pipeline
 - ⚽ My goal is to develop into a well rounded data analyst uncovering business insights from raw data.
 - 📫 How to reach me jilokonma@gmail.com
