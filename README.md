@@ -25,18 +25,10 @@
 
 ### 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=CtrlJil&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtrlJil&theme=radical)
 
 ### 📈 Contribution Graph
 
-![Activity Graph](https://activity-graph.herokuapp.com/?username=CtrlJil&theme=github)
-
-### 🏅 Badges
-
-[![An image of @CtrlJil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/CtrlJil)](https://holopin.io/?username=CtrlJil)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CtrlJil&theme=github)
 
 
----*Note: GitHub Stats are generated using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-*Trophies are generated using [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)*
-CtrlJil/CtrlJil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.---
