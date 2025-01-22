@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jil
 - 👀 I’m interested in Data Analysis & Machine Learning
-- 🌱 Actively learning Data Analysis using Python, SQL
+- 🌱 Actively learning Data Analysis using Python, SQL, Excel and Tableau
 - 💞️ I’m open to collaborations on data analytics projects and willing to work at any point in the pipeline
-- ⚽ My goal is to develop into a well rounded data analyst uncovering business insights from raw data.
+- ⚽ My goal is to evolve into a well rounded data analyst uncovering insights and predicting business outcomes from raw data.
 - 📫 How to reach me jilokonma@gmail.com
 - 
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=3&line1=python%2Cpython%2C5172ec%3Bjupyter+notebook%2Cjupyter+notebook%2C961ffe%3Bnumpy%2Cnumpy%2Cc60a53%3Bpandas+%2Cpandas%2Ce2a129%3B&line2=Anaconda%2Canaconda%2C76f24f%3Bmicrosoft+sql%2Csql%2Cde5555%3B)
@@ -15,7 +15,7 @@
 
 ### 📊 Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YCtrlJil&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtrlJil&layout=compact&theme=radical)
 
@@ -29,7 +29,7 @@
 
 ### 🏅 Badges
 
-[![An image of @ctrljil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/CtrlJil)](https://holopin.io/@YOUR_USERNAME)
+[![An image of @CtrlJil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/CtrlJil)](https://holopin.io/@YOUR_USERNAME)
 
 ---
 *Note: GitHub Stats are generated using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
