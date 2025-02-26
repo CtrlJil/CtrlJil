@@ -2,11 +2,11 @@
 
 🚀 Data Detective: I turn raw data into actionable insights and predictive stories.
 
-🧠 Curious Learner: Actively mastering Python, SQL, Excel, and Tableau to unlock the secrets hidden in data.
+🧠 Curious Learner: Using Python, SQL, Excel, and Tableau to unlock the secrets hidden in data.
 
-🤝 Collaborator at Heart: Open to teaming up on data analytics projects—whether it's cleaning messy datasets, building dashboards, or training machine learning models.
+🤝 Collaborator at Heart: Open to teaming up on data analytics projects, whether it's cleaning messy datasets, building dashboards, or training machine learning models.
 
-⚡ Goal: To evolve into a data storytelling maestro, transforming numbers into narratives that drive business decisions.
+⚡ Goal: To leverage data-driven insights to develop solutions that empower businesses and communities.
 
 🌟 Fun Fact: I believe data is like a puzzle—every dataset has a story, and I’m here to piece it together.
 - 📫 How to reach me jilokonma@gmail.com
