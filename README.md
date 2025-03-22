@@ -2,7 +2,7 @@
 
 🚀 Data Detective: I turn raw data into actionable insights and predictive stories.
 
-🧠 Curious Learner: Using Python, SQL, Excel, and Tableau to unlock the secrets hidden in data.
+🧠 Curious Learner: Using Python, SQL, Excel, and Tableau+Power Bi to unlock the secrets hidden in data.
 
 🤝 Collaborator at Heart: Open to teaming up on data analytics projects, whether it's cleaning messy datasets, building dashboards, or training machine learning models.
 
